@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-baileys-termux",
+  "version": "1.0.0",
+  "description": "Minimal Baileys example to generate a WhatsApp session in Termux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "@hapi/boom": "^10.0.0"
+  }
+}
